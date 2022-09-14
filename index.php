@@ -1,0 +1,34 @@
+<html>
+
+	<head>
+
+	  <!-- Mobile Specific Metas
+	  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	  <!-- FONT
+	  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+	  <!-- CSS
+	  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	  <link rel="stylesheet" type="text/css" href="/ics2o/styles.css">
+
+		<title>ICS2O HTML Pages</title>
+	</head>
+
+	<body>
+
+		<h1>Welcome ICS2O!</h1>
+
+		<p>This is a collection of our web pages.</p>
+
+		<p><ul>
+		<li></li>
+		<li></li>
+		<li></li>
+		</ul></p>
+
+	</body>
+
+</html>
