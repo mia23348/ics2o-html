@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+      content="width=device-width">
+    <title>repl.i</title>
+    <link href="index.css" rel="stylesheet"
+      type="text/css" />
+  </head>
+  <body>
+    <scipt src="index.js"></scipt>
+  </body>
+<html>
+  
+<!DOCTYPE html>
+  <html>
+    <head>
+      <style>body {
+  background-color: #432616;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+      </style>
+      
+        
+      <link rel="stylesheet" href="index.css"/>
+      <body>
+        <img src="https://joyfoodsunshine.com/wp-content/uploads/2018/02/best-chocolate-chip-cookies-recipe-1.jpg" width="400" height="300" alt="">
+        
+        <h1>How To Make Chocolate Chip Cookies</h1>
+        <p>Ingredients:</p>
+        <p>1 cup butter, softened</p>
+        <p>1 cup white sugar</p>
+        <p>1 cup packed brown sugar</p>
+        <p>2 eggs</p>
+        <p>2 teaspoons vanilla extract</p>
+        <p>1 teaspoon baking soda</p>
+        <p>1 teaspoon baking soda</p>
+        <p>½ teaspoon salt</p>
+        <p>3 cups all-purpose flour</p>
+        <p>2 cups semisweet chocolate chips</p>
+        <p>1 cup chopped walnuts</p>
+        <h1>Steps</h1>
+        <p>1. Preheat oven to 350 degrees F (175 degrees C).</p>
+        <p>2. Cream together the butter, white sugar, and brown sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla. Dissolve baking soda in hot water. Add to batter along with salt. Stir in flour, chocolate chips, and nuts. Drop by large spoonfuls onto ungreased pans.</p>
+        <p>3. Bake for about 10 minutes in the preheated oven, or until edges are nicely browned.</p>
+      </body>
+    </head>
+  </html>
